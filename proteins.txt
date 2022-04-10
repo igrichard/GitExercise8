@@ -11,4 +11,3 @@ Hello protein shake
 =======
 PFKM Human PFKAM_HUMAN P08237
 >>>>>>> 3aba56af6b002384e534a46f7015a98ff5a176df
-This is clearly another mistake!
