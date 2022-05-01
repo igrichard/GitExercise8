@@ -8,6 +8,7 @@ echo "Copyright 2022. Unix Training Academy Inc."
 sleep 5
 
 echo
+sleep 5
 echo creating user jenkins...; sleep 3
 useradd jenkins
 echo redhat | passwd jenkins --stdin
